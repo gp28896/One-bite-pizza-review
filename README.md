@@ -41,6 +41,8 @@ Rough interpretation:
 
 9+ → elite (best of the best)
 
+google maps URLs of locations with scores >= 9: https://maps.app.goo.gl/BEV5D5ZZ1qTXNGR69
+
 🍕 What he looks for in pizza
 
 
