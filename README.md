@@ -57,5 +57,12 @@ Cheese quality
 
 “No flop” test (slice shouldn’t droop too much)
 
-"one_bite_pizza_review.ipnyb" creates a csv file that contains google maps locations of the pizza places rated by Dave.
+"one_bite_pizza_review.ipnyb" creates a csv file that contains google maps locations of the pizza places rated by Dave with the following rows:
+1. Rank
+2. Score
+3. Name
+4. City
+5. State
+6. Google Maps Link
 
+The scores are gathered from https://www.onebitepizzarankings.com/
